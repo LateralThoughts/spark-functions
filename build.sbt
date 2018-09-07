@@ -4,7 +4,7 @@ organization := "com.lateral.thoughts"
 
 scalaVersion := "2.11.12"
 
-crossScalaVersions := Seq("2.11.12", "2.12.2")
+crossScalaVersions := Seq("2.11.12")
 
 val sparkVersion = "2.3.1" 
 
