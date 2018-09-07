@@ -4,6 +4,8 @@ organization := "com.lateral.thoughts"
 
 scalaVersion := "2.11.12"
 
+crossScalaVersions := Seq("2.10.6", "2.11.12", "2.12.2")
+
 val sparkVersion = "2.3.1" 
 
 libraryDependencies ++= Seq(
